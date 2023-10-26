@@ -1,0 +1,174 @@
+{
+  "courseName": "Pebble Beach Golf Links Resort",
+  "gameMode": "stroke_play",
+  "gameType": "BasicPlay",
+  "holeSet": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+  ],
+  "course": {
+      "holes": [
+          {
+              "index": 0,
+              "ladiesHandicap": 8,
+              "ladiesPar": 4,
+              "mensHandicap": 8,
+              "mensPar": 4,
+              "name": "Hole 1"
+          },
+          {
+              "index": 0,
+              "ladiesHandicap": 10,
+              "ladiesPar": 5,
+              "mensHandicap": 10,
+              "mensPar": 5,
+              "name": "Hole 2"
+          },
+          {
+              "index": 0,
+              "ladiesHandicap": 12,
+              "ladiesPar": 4,
+              "mensHandicap": 12,
+              "mensPar": 4,
+              "name": "Hole 3"
+          },
+          {
+              "index": 0,
+              "ladiesHandicap": 16,
+              "ladiesPar": 4,
+              "mensHandicap": 16,
+              "mensPar": 4,
+              "name": "Hole 4"
+          },
+          {
+              "index": 0,
+              "ladiesHandicap": 14,
+              "ladiesPar": 3,
+              "mensHandicap": 14,
+              "mensPar": 3,
+              "name": "Hole 5"
+          },
+          {
+              "index": 0,
+              "ladiesHandicap": 2,
+              "ladiesPar": 5,
+              "mensHandicap": 2,
+              "mensPar": 5,
+              "name": "Hole 6"
+          },
+          {
+              "index": 0,
+              "ladiesHandicap": 18,
+              "ladiesPar": 3,
+              "mensHandicap": 18,
+              "mensPar": 3,
+              "name": "Hole 7"
+          },
+          {
+              "index": 0,
+              "ladiesHandicap": 6,
+              "ladiesPar": 4,
+              "mensHandicap": 6,
+              "mensPar": 4,
+              "name": "Hole 8"
+          },
+          {
+              "index": 0,
+              "ladiesHandicap": 4,
+              "ladiesPar": 4,
+              "mensHandicap": 4,
+              "mensPar": 4,
+              "name": "Hole 9"
+          },
+          {
+              "index": 0,
+              "ladiesHandicap": 7,
+              "ladiesPar": 4,
+              "mensHandicap": 7,
+              "mensPar": 4,
+              "name": "Hole 10"
+          },
+          {
+              "index": 0,
+              "ladiesHandicap": 5,
+              "ladiesPar": 4,
+              "mensHandicap": 5,
+              "mensPar": 4,
+              "name": "Hole 11"
+          },
+          {
+              "index": 0,
+              "ladiesHandicap": 17,
+              "ladiesPar": 3,
+              "mensHandicap": 17,
+              "mensPar": 3,
+              "name": "Hole 12"
+          },
+          {
+              "index": 0,
+              "ladiesHandicap": 9,
+              "ladiesPar": 4,
+              "mensHandicap": 9,
+              "mensPar": 4,
+              "name": "Hole 13"
+          },
+          {
+              "index": 0,
+              "ladiesHandicap": 1,
+              "ladiesPar": 5,
+              "mensHandicap": 1,
+              "mensPar": 5,
+              "name": "Hole 14"
+          },
+          {
+              "index": 0,
+              "ladiesHandicap": 13,
+              "ladiesPar": 4,
+              "mensHandicap": 13,
+              "mensPar": 4,
+              "name": "Hole 15"
+          },
+          {
+              "index": 0,
+              "ladiesHandicap": 11,
+              "ladiesPar": 4,
+              "mensHandicap": 11,
+              "mensPar": 4,
+              "name": "Hole 16"
+          },
+          {
+              "index": 0,
+              "ladiesHandicap": 15,
+              "ladiesPar": 3,
+              "mensHandicap": 15,
+              "mensPar": 3,
+              "name": "Hole 17"
+          },
+          {
+              "index": 0,
+              "ladiesHandicap": 3,
+              "ladiesPar": 5,
+              "mensHandicap": 3,
+              "mensPar": 5,
+              "name": "Hole 18"
+          }
+      ],
+      "name": "Pebble Beach Golf Links Resort"
+  }
+}

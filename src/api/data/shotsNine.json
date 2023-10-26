@@ -1,0 +1,4390 @@
+[
+  {
+      "actionIndex": 0,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 28.473467,
+      "carryDistance": 719.41345,
+      "clientTime": "2023-04-11T14:29:59.1Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 145.07542,
+      "clubPathAngle": 0,
+      "clubTypeKey": "1Wood",
+      "courseHoleIndex": 0,
+      "createdAt": "2023-04-11T14:30:22.238573Z",
+      "detectedHoleIndex": 0,
+      "endedInHole": false,
+      "finalized": true,
+      "id": "92546afb-b773-4b4e-90b9-ba3d2ef6abd2",
+      "launchAngle": 12,
+      "launchBackSpin": 2776.4001,
+      "launchBallSpeed": 214.71164,
+      "launchDirection": -0.75,
+      "launchSideSpin": 250,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 1,
+      "roundScoreWithHandicap": 2,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 1,
+      "segmentScore": 1,
+      "segmentScoreIndex": 0,
+      "shotIndex": 0,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.07998657,
+              "milliseconds": 0,
+              "pinDistance": 799.81464,
+              "position": {
+                  "x": -785.2233,
+                  "y": 1341.4991,
+                  "z": 147.08972
+              },
+              "rollTime": 0,
+              "speed": 214.71164,
+              "spin": {
+                  "x": 40.961304,
+                  "y": -21.526567,
+                  "z": 4.1666665
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.45023316,
+                  "y": 0.85778695
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -8.527331,
+                  "y": -8.527331,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 464.53674,
+              "height": 98.452675,
+              "milliseconds": 3116,
+              "pinDistance": 346.02515,
+              "position": {
+                  "x": -584.94714,
+                  "y": 1753.3434,
+                  "z": 224.98805
+              },
+              "rollTime": 0,
+              "speed": 104.55797,
+              "spin": {
+                  "x": 36.15877,
+                  "y": -19.002674,
+                  "z": 3.6781428
+              },
+              "terrainType": "kTerrainHardAngular",
+              "topViewPosition": {
+                  "x": 0.50481033,
+                  "y": 0.42397922
+              },
+              "type": "apex",
+              "windVelocity": {
+                  "x": -5.7743287,
+                  "y": -5.7743287,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 719.41345,
+              "height": 0.24351501,
+              "milliseconds": 6209,
+              "pinDistance": 95.38778,
+              "position": {
+                  "x": -484.2348,
+                  "y": 1994.8722,
+                  "z": 139.01074
+              },
+              "rollTime": 0,
+              "speed": 72.88423,
+              "spin": {
+                  "x": -18.77949,
+                  "y": 6.7544837,
+                  "z": -0.8766201
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.50742227,
+                  "y": 0.17560792
+              },
+              "type": "carry",
+              "windVelocity": {
+                  "x": -3.910632,
+                  "y": -3.910632,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 752.6206,
+              "height": 0.070007324,
+              "milliseconds": 8561,
+              "pinDistance": 67.83351,
+              "position": {
+                  "x": -473.6318,
+                  "y": 2026.5515,
+                  "z": 139.89691
+              },
+              "rollTime": 0,
+              "speed": 0.1768651,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.50318795,
+                  "y": 0.14397132
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -6.04736,
+                  "y": -6.04736,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": true,
+      "totalDistance": 752.6206,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:30:22.238573Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 1,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 336.75867,
+      "carryDistance": 45.370205,
+      "clientTime": "2023-04-11T14:30:20.597Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 34.2,
+      "clubPathAngle": 0,
+      "clubTypeKey": "SandWedge",
+      "courseHoleIndex": 0,
+      "createdAt": "2023-04-11T14:30:42.227419Z",
+      "detectedHoleIndex": 0,
+      "endedInHole": true,
+      "finalized": true,
+      "id": "59cce806-a0bf-4542-9e66-d55e10fc66cc",
+      "launchAngle": 33,
+      "launchBackSpin": 3197.7,
+      "launchBallSpeed": 41.382,
+      "launchDirection": 1,
+      "launchSideSpin": -300,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 3,
+      "roundScoreWithHandicap": 4,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 2,
+      "segmentScore": 3,
+      "segmentScoreIndex": 0,
+      "shotIndex": 1,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.08000183,
+              "milliseconds": 0,
+              "pinDistance": 67.83351,
+              "position": {
+                  "x": -473.6318,
+                  "y": 2026.5515,
+                  "z": 139.9069
+              },
+              "rollTime": 0,
+              "speed": 41.382,
+              "spin": {
+                  "x": 49.32972,
+                  "y": 20.172642,
+                  "z": -5
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.50318795,
+                  "y": 0.14397132
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -2.753179,
+                  "y": -2.753179,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 25.363115,
+              "height": 7.485031,
+              "milliseconds": 733,
+              "pinDistance": 43.759136,
+              "position": {
+                  "x": -482.7915,
+                  "y": 2048.82,
+                  "z": 147.87553
+              },
+              "rollTime": 0,
+              "speed": 31.349375,
+              "spin": {
+                  "x": 47.903267,
+                  "y": 19.589314,
+                  "z": -4.855416
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.47104132,
+                  "y": 0.12772453
+              },
+              "type": "apex",
+              "windVelocity": {
+                  "x": -3.9493656,
+                  "y": -3.9493656,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 45.370205,
+              "height": 0.117248535,
+              "milliseconds": 1443,
+              "pinDistance": 22.476162,
+              "position": {
+                  "x": -491.032,
+                  "y": 2068.4492,
+                  "z": 140.4269
+              },
+              "rollTime": 0,
+              "speed": 36.05233,
+              "spin": {
+                  "x": 23.13277,
+                  "y": 10.562421,
+                  "z": 0.95466095
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.44241264,
+                  "y": 0.1134634
+              },
+              "type": "carry",
+              "windVelocity": {
+                  "x": -5.102295,
+                  "y": -5.102295,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 65.14088,
+              "height": 0.070007324,
+              "milliseconds": 6956,
+              "pinDistance": 4.5745525,
+              "position": {
+                  "x": -502.62546,
+                  "y": 2084.884,
+                  "z": 140.04643
+              },
+              "rollTime": 0,
+              "speed": 0.100060895,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.4102009,
+                  "y": 0.10321617
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -5.3465157,
+                  "y": -5.3465157,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": false,
+      "totalDistance": 65.14088,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:30:42.227419Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 2,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 322.7299,
+      "carryDistance": 482.61075,
+      "clientTime": "2023-04-11T14:30:43.64Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 116.08291,
+      "clubPathAngle": 0,
+      "clubTypeKey": "7Iron",
+      "courseHoleIndex": 1,
+      "createdAt": "2023-04-11T14:31:05.14878Z",
+      "detectedHoleIndex": 1,
+      "endedInHole": false,
+      "finalized": true,
+      "id": "8f57bd3f-3aab-484c-ab86-2691cecb4780",
+      "launchAngle": 21,
+      "launchBackSpin": 6525.9995,
+      "launchBallSpeed": 159.03358,
+      "launchDirection": 0,
+      "launchSideSpin": 0,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 4,
+      "roundScoreWithHandicap": 6,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 1,
+      "segmentScore": 1,
+      "segmentScoreIndex": 1,
+      "shotIndex": 2,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.08003235,
+              "milliseconds": 0,
+              "pinDistance": 445.60278,
+              "position": {
+                  "x": -420.75888,
+                  "y": 2177.797,
+                  "z": 159.18652
+              },
+              "rollTime": 0,
+              "speed": 159.03358,
+              "spin": {
+                  "x": 86.55534,
+                  "y": 65.86621,
+                  "z": 0
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.44575253,
+                  "y": 0.85275966
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -6.2295856,
+                  "y": -6.2295856,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 309.46762,
+              "height": 122.66791,
+              "milliseconds": 2949,
+              "pinDistance": 150.22725,
+              "position": {
+                  "x": -604.35376,
+                  "y": 2409.3147,
+                  "z": 251.17966
+              },
+              "rollTime": 0,
+              "speed": 68.4893,
+              "spin": {
+                  "x": 76.91838,
+                  "y": 58.53274,
+                  "z": 0
+              },
+              "terrainType": "kTerrainRough",
+              "topViewPosition": {
+                  "x": 0.4355351,
+                  "y": 0.34721637
+              },
+              "type": "apex",
+              "windVelocity": {
+                  "x": -9.670816,
+                  "y": -9.670816,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 482.61075,
+              "height": 0.070755005,
+              "milliseconds": 6315,
+              "pinDistance": 41.678345,
+              "position": {
+                  "x": -730.7362,
+                  "y": 2547.146,
+                  "z": 138.97258
+              },
+              "rollTime": 0,
+              "speed": 72.01905,
+              "spin": {
+                  "x": 13.85487,
+                  "y": 18.829132,
+                  "z": 3.1839993
+              },
+              "terrainType": "kTerrainRough",
+              "topViewPosition": {
+                  "x": 0.38328752,
+                  "y": 0.028319418
+              },
+              "type": "carry",
+              "windVelocity": {
+                  "x": -7.595519,
+                  "y": -7.595519,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 490.66263,
+              "height": 0.070007324,
+              "milliseconds": 7457,
+              "pinDistance": 50.357914,
+              "position": {
+                  "x": -738.4654,
+                  "y": 2551.1504,
+                  "z": 138.6995
+              },
+              "rollTime": 0,
+              "speed": 0.18058182,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainRough",
+              "topViewPosition": {
+                  "x": 0.3708039,
+                  "y": 0.014796317
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -7.9053254,
+                  "y": -7.9053254,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": true,
+      "totalDistance": 490.66263,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:31:05.14878Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 3,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 113.41057,
+      "carryDistance": 39.37115,
+      "clientTime": "2023-04-11T14:30:59.743Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 31.118359,
+      "clubPathAngle": 0,
+      "clubTypeKey": "SandWedge",
+      "courseHoleIndex": 1,
+      "createdAt": "2023-04-11T14:31:20.146703Z",
+      "detectedHoleIndex": 1,
+      "endedInHole": true,
+      "finalized": true,
+      "id": "d79db304-acda-4149-b609-6ec4559319e4",
+      "launchAngle": 33,
+      "launchBackSpin": 2289.401,
+      "launchBallSpeed": 37.653217,
+      "launchDirection": 0,
+      "launchSideSpin": 0,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 6,
+      "roundScoreWithHandicap": 8,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 2,
+      "segmentScore": 3,
+      "segmentScoreIndex": 1,
+      "shotIndex": 3,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.08000183,
+              "milliseconds": 0,
+              "pinDistance": 50.357914,
+              "position": {
+                  "x": -738.4654,
+                  "y": 2551.1504,
+                  "z": 138.70949
+              },
+              "rollTime": 0,
+              "speed": 37.653217,
+              "spin": {
+                  "x": -15.1603,
+                  "y": -35.01568,
+                  "z": 0
+              },
+              "terrainType": "kTerrainRough",
+              "topViewPosition": {
+                  "x": 0.3708039,
+                  "y": 0.014796317
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -9.615974,
+                  "y": -9.615974,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 20.930168,
+              "height": 6.2450714,
+              "milliseconds": 666,
+              "pinDistance": 30.487646,
+              "position": {
+                  "x": -720.2942,
+                  "y": 2543.1082,
+                  "z": 145.28229
+              },
+              "rollTime": 0,
+              "speed": 28.31002,
+              "spin": {
+                  "x": -14.761239,
+                  "y": -34.093987,
+                  "z": 0
+              },
+              "terrainType": "kTerrainRough",
+              "topViewPosition": {
+                  "x": 0.40303272,
+                  "y": 0.044735312
+              },
+              "type": "apex",
+              "windVelocity": {
+                  "x": -9.50728,
+                  "y": -9.50728,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 39.37115,
+              "height": 0.11782837,
+              "milliseconds": 1395,
+              "pinDistance": 11.036354,
+              "position": {
+                  "x": -702.6272,
+                  "y": 2534.9072,
+                  "z": 137.34167
+              },
+              "rollTime": 0,
+              "speed": 36.09099,
+              "spin": {
+                  "x": -4.8117366,
+                  "y": -10.643891,
+                  "z": 0.2891783
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.43356603,
+                  "y": 0.07435942
+              },
+              "type": "carry",
+              "windVelocity": {
+                  "x": -9.180507,
+                  "y": -9.180507,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 58.54746,
+              "height": 0.070007324,
+              "milliseconds": 5741,
+              "pinDistance": 8.161931,
+              "position": {
+                  "x": -684.85364,
+                  "y": 2527.6973,
+                  "z": 136.82915
+              },
+              "rollTime": 0,
+              "speed": 0.114481196,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.466467,
+                  "y": 0.10275632
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -9.068491,
+                  "y": -9.068491,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": false,
+      "totalDistance": 58.54746,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:31:20.146703Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 4,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 96.476814,
+      "carryDistance": 540.64685,
+      "clientTime": "2023-04-11T14:31:33.522Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 113.490005,
+      "clubPathAngle": 0,
+      "clubTypeKey": "5Wood",
+      "courseHoleIndex": 2,
+      "createdAt": "2023-04-11T14:31:57.197096Z",
+      "detectedHoleIndex": 2,
+      "endedInHole": false,
+      "finalized": true,
+      "id": "71cbb6b5-a208-4c4b-87c0-17afe53ae687",
+      "launchAngle": 17.5,
+      "launchBackSpin": 3640,
+      "launchBallSpeed": 166.8303,
+      "launchDirection": 0.75,
+      "launchSideSpin": -250,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 7,
+      "roundScoreWithHandicap": 9,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 1,
+      "segmentScore": 1,
+      "segmentScoreIndex": 2,
+      "shotIndex": 4,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.07998657,
+              "milliseconds": 0,
+              "pinDistance": 807.26324,
+              "position": {
+                  "x": -394.9664,
+                  "y": 2139.5715,
+                  "z": 158.38002
+              },
+              "rollTime": 0,
+              "speed": 166.8303,
+              "spin": {
+                  "x": -7.6317086,
+                  "y": -60.184727,
+                  "z": -4.1666665
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.6737165,
+                  "y": 0.67398787
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -5.258701,
+                  "y": -5.258701,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 341.23798,
+              "height": 101.19949,
+              "milliseconds": 2933,
+              "pinDistance": 498.8283,
+              "position": {
+                  "x": -66.199905,
+                  "y": 2091.1404,
+                  "z": 235.90663
+              },
+              "rollTime": 0,
+              "speed": 81.11958,
+              "spin": {
+                  "x": -6.7865257,
+                  "y": -53.519505,
+                  "z": -3.7052243
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.60734767,
+                  "y": 0.418056
+              },
+              "type": "apex",
+              "windVelocity": {
+                  "x": -9.750562,
+                  "y": -9.750562,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 540.64685,
+              "height": 0.07040405,
+              "milliseconds": 6149,
+              "pinDistance": 339.00452,
+              "position": {
+                  "x": 137.60788,
+                  "y": 2049.073,
+                  "z": 136.61732
+              },
+              "rollTime": 0,
+              "speed": 75.05535,
+              "spin": {
+                  "x": 1.403112,
+                  "y": 12.050291,
+                  "z": -1.2720891
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.58420765,
+                  "y": 0.25685787
+              },
+              "type": "carry",
+              "windVelocity": {
+                  "x": -6.0207686,
+                  "y": -6.0207686,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 559.7592,
+              "height": 0.070007324,
+              "milliseconds": 8692,
+              "pinDistance": 323.66043,
+              "position": {
+                  "x": 157.07043,
+                  "y": 2049.5574,
+                  "z": 136.39908
+              },
+              "rollTime": 0,
+              "speed": 0.15290403,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.5752691,
+                  "y": 0.2424143
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -5.0482206,
+                  "y": -5.0482206,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": true,
+      "totalDistance": 559.7592,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:31:57.197096Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 5,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 49.538464,
+      "carryDistance": 307.72485,
+      "clientTime": "2023-04-11T14:31:52.521Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 100.87805,
+      "clubPathAngle": 0,
+      "clubTypeKey": "PitchingWedge",
+      "courseHoleIndex": 2,
+      "createdAt": "2023-04-11T14:32:14.252287Z",
+      "detectedHoleIndex": 2,
+      "endedInHole": false,
+      "finalized": true,
+      "id": "bc76c87f-4593-4741-aacc-61d0ab1bf11e",
+      "launchAngle": 24,
+      "launchBackSpin": 7285,
+      "launchBallSpeed": 124.08,
+      "launchDirection": 0.75,
+      "launchSideSpin": -150,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 8,
+      "roundScoreWithHandicap": 10,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 1,
+      "segmentScore": 2,
+      "segmentScoreIndex": 2,
+      "shotIndex": 5,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.08000183,
+              "milliseconds": 0,
+              "pinDistance": 323.66043,
+              "position": {
+                  "x": 157.07043,
+                  "y": 2049.5574,
+                  "z": 136.40907
+              },
+              "rollTime": 0,
+              "speed": 124.08,
+              "spin": {
+                  "x": 77.57585,
+                  "y": -93.40231,
+                  "z": -2.5
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.5752691,
+                  "y": 0.2424143
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -10.12878,
+                  "y": -10.12878,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 204.23827,
+              "height": 74.35401,
+              "milliseconds": 2466,
+              "pinDistance": 130.29555,
+              "position": {
+                  "x": 304.58365,
+                  "y": 2174.5803,
+                  "z": 202.1539
+              },
+              "rollTime": 0,
+              "speed": 54.424133,
+              "spin": {
+                  "x": 70.28486,
+                  "y": -84.62391,
+                  "z": -2.2650378
+              },
+              "terrainType": "kTerrainDeepGrass",
+              "topViewPosition": {
+                  "x": 0.32613125,
+                  "y": 0.1585508
+              },
+              "type": "apex",
+              "windVelocity": {
+                  "x": -9.183585,
+                  "y": -9.183585,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 307.72485,
+              "height": 0.24298096,
+              "milliseconds": 5090,
+              "pinDistance": 16.335732,
+              "position": {
+                  "x": 389.01416,
+                  "y": 2251.7148,
+                  "z": 131.01831
+              },
+              "rollTime": 0,
+              "speed": 19.801977,
+              "spin": {
+                  "x": 28.570591,
+                  "y": -32.766994,
+                  "z": -1.4468551
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.17519957,
+                  "y": 0.111727595
+              },
+              "type": "carry",
+              "windVelocity": {
+                  "x": -9.796608,
+                  "y": -9.796608,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 305.12677,
+              "height": 0.070007324,
+              "milliseconds": 7495,
+              "pinDistance": 18.61488,
+              "position": {
+                  "x": 388.60178,
+                  "y": 2248.2021,
+                  "z": 130.42245
+              },
+              "rollTime": 0,
+              "speed": 0.10664223,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.18062398,
+                  "y": 0.11129451
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -9.714774,
+                  "y": -9.714774,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": false,
+      "totalDistance": 305.12677,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:32:14.252287Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 6,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 52.272263,
+      "carryDistance": 16.092875,
+      "clientTime": "2023-04-11T14:32:15.65Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 20.909092,
+      "clubPathAngle": 0,
+      "clubTypeKey": "SandWedge",
+      "courseHoleIndex": 2,
+      "createdAt": "2023-04-11T14:32:33.226061Z",
+      "detectedHoleIndex": 2,
+      "endedInHole": true,
+      "finalized": true,
+      "id": "bdd7b211-5561-4c41-ae2b-de4b372b8cd3",
+      "launchAngle": 33,
+      "launchBackSpin": 1955,
+      "launchBallSpeed": 25.300001,
+      "launchDirection": 0.75,
+      "launchSideSpin": -150,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 10,
+      "roundScoreWithHandicap": 12,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 2,
+      "segmentScore": 4,
+      "segmentScoreIndex": 2,
+      "shotIndex": 6,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.08000183,
+              "milliseconds": 0,
+              "pinDistance": 18.61488,
+              "position": {
+                  "x": 388.60178,
+                  "y": 2248.2021,
+                  "z": 130.43245
+              },
+              "rollTime": 0,
+              "speed": 25.300001,
+              "spin": {
+                  "x": 19.599028,
+                  "y": -26.029823,
+                  "z": -2.5
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.18062398,
+                  "y": 0.11129451
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -1.5612359,
+                  "y": -1.5612359,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 9.457353,
+              "height": 2.1836548,
+              "milliseconds": 433,
+              "pinDistance": 9.614253,
+              "position": {
+                  "x": 395.7904,
+                  "y": 2253.6206,
+                  "z": 133.33167
+              },
+              "rollTime": 0,
+              "speed": 20.383446,
+              "spin": {
+                  "x": 19.262125,
+                  "y": -25.582363,
+                  "z": -2.4570255
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.16949064,
+                  "y": 0.10706544
+              },
+              "type": "apex",
+              "windVelocity": {
+                  "x": -1.248458,
+                  "y": -1.248458,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 16.092875,
+              "height": 0.09135437,
+              "milliseconds": 790,
+              "pinDistance": 2.5627966,
+              "position": {
+                  "x": 401.42578,
+                  "y": 2257.8718,
+                  "z": 131.4438
+              },
+              "rollTime": 0,
+              "speed": 21.847775,
+              "spin": {
+                  "x": 10.619384,
+                  "y": -14.343674,
+                  "z": -0.31275696
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.16075793,
+                  "y": 0.103750825
+              },
+              "type": "carry",
+              "windVelocity": {
+                  "x": -1.0897679,
+                  "y": -1.0897679,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 24.23123,
+              "height": 0.070007324,
+              "milliseconds": 3054,
+              "pinDistance": 5.5944386,
+              "position": {
+                  "x": 407.9067,
+                  "y": 2262.8027,
+                  "z": 131.57043
+              },
+              "rollTime": 0,
+              "speed": 0.11183308,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.15065208,
+                  "y": 0.09994769
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -1.0012547,
+                  "y": -1.0012547,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": false,
+      "totalDistance": 24.23123,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:32:33.226061Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 7,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 201.11786,
+      "carryDistance": 700.45966,
+      "clientTime": "2023-04-11T14:32:39.197Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 145.07542,
+      "clubPathAngle": 0,
+      "clubTypeKey": "1Wood",
+      "courseHoleIndex": 3,
+      "createdAt": "2023-04-11T14:33:01.14957Z",
+      "detectedHoleIndex": 3,
+      "endedInHole": false,
+      "finalized": true,
+      "id": "8d0dde1a-66ae-484b-94f0-3447980dedc6",
+      "launchAngle": 12,
+      "launchBackSpin": 2776.4001,
+      "launchBallSpeed": 214.71164,
+      "launchDirection": 0.75,
+      "launchSideSpin": -250,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 11,
+      "roundScoreWithHandicap": 13,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 1,
+      "segmentScore": 1,
+      "segmentScoreIndex": 3,
+      "shotIndex": 7,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.08001709,
+              "milliseconds": 0,
+              "pinDistance": 805.3774,
+              "position": {
+                  "x": 760.1252,
+                  "y": 2483.8032,
+                  "z": 128.17084
+              },
+              "rollTime": 0,
+              "speed": 214.71164,
+              "spin": {
+                  "x": -42.943756,
+                  "y": 17.235292,
+                  "z": -4.1666665
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.5319945,
+                  "y": 0.81682205
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -4.470315,
+                  "y": -4.470315,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 458.30386,
+              "height": 67.80652,
+              "milliseconds": 2949,
+              "pinDistance": 353.86273,
+              "position": {
+                  "x": 580.4209,
+                  "y": 2068.494,
+                  "z": 200.74463
+              },
+              "rollTime": 0,
+              "speed": 115.01178,
+              "spin": {
+                  "x": -38.16245,
+                  "y": 15.316339,
+                  "z": -3.702754
+              },
+              "terrainType": "kTerrainRough",
+              "topViewPosition": {
+                  "x": 0.586406,
+                  "y": 0.42968303
+              },
+              "type": "apex",
+              "windVelocity": {
+                  "x": -9.802842,
+                  "y": -9.802842,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 700.45966,
+              "height": 0.18556213,
+              "milliseconds": 5491,
+              "pinDistance": 115.80534,
+              "position": {
+                  "x": 468.77832,
+                  "y": 1846.9672,
+                  "z": 142.3344
+              },
+              "rollTime": 0,
+              "speed": 77.87107,
+              "spin": {
+                  "x": 11.695684,
+                  "y": -6.985136,
+                  "z": 1.2549092
+              },
+              "terrainType": "kTerrainRough",
+              "topViewPosition": {
+                  "x": 0.64097536,
+                  "y": 0.21868974
+              },
+              "type": "carry",
+              "windVelocity": {
+                  "x": -9.685166,
+                  "y": -9.685166,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 737.712,
+              "height": 0.070007324,
+              "milliseconds": 7419,
+              "pinDistance": 88.74327,
+              "position": {
+                  "x": 447.00284,
+                  "y": 1816.0195,
+                  "z": 143.60936
+              },
+              "rollTime": 0,
+              "speed": 0.15000406,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainRough",
+              "topViewPosition": {
+                  "x": 0.6585965,
+                  "y": 0.1874553
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -9.271309,
+                  "y": -9.271309,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": true,
+      "totalDistance": 737.712,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:33:01.14957Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 8,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 162.79256,
+      "clientTime": "2023-04-11T14:32:58.994Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 85.01884,
+      "clubPathAngle": 0,
+      "clubTypeKey": "SandWedge",
+      "courseHoleIndex": 3,
+      "createdAt": "2023-04-11T14:33:20.1405Z",
+      "detectedHoleIndex": 3,
+      "endedInHole": false,
+      "finalized": true,
+      "id": "3b736d47-56ec-4e49-a509-a1aa4c645054",
+      "launchAngle": 33,
+      "launchBackSpin": 6109.984,
+      "launchBallSpeed": 102.872795,
+      "launchDirection": -0.75,
+      "launchSideSpin": 53.272354,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 12,
+      "roundScoreWithHandicap": 14,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 1,
+      "segmentScore": 2,
+      "segmentScoreIndex": 3,
+      "shotIndex": 8,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.08000183,
+              "milliseconds": 0,
+              "pinDistance": 88.74327,
+              "position": {
+                  "x": 447.00284,
+                  "y": 1816.0195,
+                  "z": 143.61935
+              },
+              "rollTime": 0,
+              "speed": 102.872795,
+              "spin": {
+                  "x": -96.87234,
+                  "y": -31.396225,
+                  "z": 0.8878726
+              },
+              "terrainType": "kTerrainRough",
+              "topViewPosition": {
+                  "x": 0.6585965,
+                  "y": 0.1874553
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -5.949968,
+                  "y": -5.949968,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 189.02313,
+              "height": 0.070007324,
+              "milliseconds": 6372,
+              "pinDistance": 100.389244,
+              "position": {
+                  "x": 491.4889,
+                  "y": 1632.5288,
+                  "z": 152.66893
+              },
+              "rollTime": 0,
+              "speed": 0.10196936,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainRough",
+              "topViewPosition": {
+                  "x": 0.48218486,
+                  "y": 0.05166322
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -7.7788687,
+                  "y": -7.7788687,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": false,
+      "totalDistance": 189.02313,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:33:20.1405Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 9,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 349.53577,
+      "carryDistance": 65.71799,
+      "clientTime": "2023-04-11T14:33:19.991Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 39.312984,
+      "clubPathAngle": 0,
+      "clubTypeKey": "SandWedge",
+      "courseHoleIndex": 3,
+      "createdAt": "2023-04-11T14:33:40.222222Z",
+      "detectedHoleIndex": 3,
+      "endedInHole": false,
+      "finalized": true,
+      "id": "7d2026aa-b91a-464f-9154-e76243318157",
+      "launchAngle": 33,
+      "launchBackSpin": 3053.1956,
+      "launchBallSpeed": 47.568714,
+      "launchDirection": 0.75,
+      "launchSideSpin": -57.319065,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 13,
+      "roundScoreWithHandicap": 15,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 1,
+      "segmentScore": 3,
+      "segmentScoreIndex": 3,
+      "shotIndex": 9,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.08000183,
+              "milliseconds": 0,
+              "pinDistance": 100.389244,
+              "position": {
+                  "x": 491.4889,
+                  "y": 1632.5288,
+                  "z": 152.67892
+              },
+              "rollTime": 0,
+              "speed": 47.568714,
+              "spin": {
+                  "x": 50.15695,
+                  "y": 8.5863495,
+                  "z": -0.95531774
+              },
+              "terrainType": "kTerrainRough",
+              "topViewPosition": {
+                  "x": 0.48218486,
+                  "y": 0.05166322
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -9.481783,
+                  "y": -9.481783,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 32.87227,
+              "height": 12.735764,
+              "milliseconds": 833,
+              "pinDistance": 69.24023,
+              "position": {
+                  "x": 485.84555,
+                  "y": 1663.1624,
+                  "z": 163.18248
+              },
+              "rollTime": 0,
+              "speed": 35.385555,
+              "spin": {
+                  "x": 48.512074,
+                  "y": 8.304766,
+                  "z": -0.9239885
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.5087507,
+                  "y": 0.07484102
+              },
+              "type": "apex",
+              "windVelocity": {
+                  "x": -9.255746,
+                  "y": -9.255746,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 65.71799,
+              "height": 0.14234924,
+              "milliseconds": 1864,
+              "pinDistance": 34.85911,
+              "position": {
+                  "x": 478.69373,
+                  "y": 1696.816,
+                  "z": 147.95781
+              },
+              "rollTime": 0,
+              "speed": 46.88202,
+              "spin": {
+                  "x": 12.171338,
+                  "y": 2.6267111,
+                  "z": -0.15985385
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.5394761,
+                  "y": 0.100033164
+              },
+              "type": "carry",
+              "windVelocity": {
+                  "x": -7.92523,
+                  "y": -7.92523,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 82.40216,
+              "height": 0.070007324,
+              "milliseconds": 5890,
+              "pinDistance": 18.151749,
+              "position": {
+                  "x": 475.64185,
+                  "y": 1713.2542,
+                  "z": 147.9453
+              },
+              "rollTime": 0,
+              "speed": 0.121254675,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.55376965,
+                  "y": 0.11246371
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -7.362006,
+                  "y": -7.362006,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": false,
+      "totalDistance": 82.40216,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:33:40.222222Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 10,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 352.44708,
+      "clientTime": "2023-04-11T14:33:36.672Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 7.549669,
+      "clubPathAngle": 0,
+      "clubTypeKey": "Putter",
+      "courseHoleIndex": 3,
+      "createdAt": "2023-04-11T14:33:56.134499Z",
+      "detectedHoleIndex": 3,
+      "endedInHole": true,
+      "finalized": true,
+      "id": "7a55546f-a20f-4047-a453-1b2d27f6615d",
+      "launchAngle": 0,
+      "launchBackSpin": 0,
+      "launchBallSpeed": 11.4,
+      "launchDirection": 0.5,
+      "launchSideSpin": 0,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 15,
+      "roundScoreWithHandicap": 17,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 2,
+      "segmentScore": 5,
+      "segmentScoreIndex": 3,
+      "shotIndex": 10,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.08000183,
+              "milliseconds": 0,
+              "pinDistance": 18.151749,
+              "position": {
+                  "x": 475.64185,
+                  "y": 1713.2542,
+                  "z": 147.95529
+              },
+              "rollTime": 0,
+              "speed": 11.4,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.55376965,
+                  "y": 0.11246371
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -10.122895,
+                  "y": -10.122895,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 19.097996,
+              "height": 0.070007324,
+              "milliseconds": 4516,
+              "pinDistance": 1.3070092,
+              "position": {
+                  "x": 474.05136,
+                  "y": 1732.2855,
+                  "z": 147.85196
+              },
+              "rollTime": 0,
+              "speed": 0.11996204,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.5671745,
+                  "y": 0.12740827
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -10.122895,
+                  "y": -10.122895,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": false,
+      "totalDistance": 19.097996,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:33:56.134499Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 11,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 226.10445,
+      "carryDistance": 649.98706,
+      "clientTime": "2023-04-11T14:34:02.535Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 129.50333,
+      "clubPathAngle": 0,
+      "clubTypeKey": "5Wood",
+      "courseHoleIndex": 4,
+      "createdAt": "2023-04-11T14:34:27.182757Z",
+      "detectedHoleIndex": 4,
+      "endedInHole": false,
+      "finalized": true,
+      "id": "72f273a9-9ee3-4344-ba1a-f78deb754e1f",
+      "launchAngle": 17.5,
+      "launchBackSpin": 4153.6,
+      "launchBallSpeed": 190.36989,
+      "launchDirection": 0,
+      "launchSideSpin": 0,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 16,
+      "roundScoreWithHandicap": 18,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 1,
+      "segmentScore": 1,
+      "segmentScoreIndex": 4,
+      "shotIndex": 11,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.08003235,
+              "milliseconds": 0,
+              "pinDistance": 1002.36316,
+              "position": {
+                  "x": 349.25574,
+                  "y": 1500.61,
+                  "z": 162.48453
+              },
+              "rollTime": 0,
+              "speed": 190.36989,
+              "spin": {
+                  "x": -47.998028,
+                  "y": 49.88508,
+                  "z": 0
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.5765136,
+                  "y": 0.8322698
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -0.9387138,
+                  "y": -0.9387138,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 424.16388,
+              "height": 112.983475,
+              "milliseconds": 3366,
+              "pinDistance": 608.03314,
+              "position": {
+                  "x": 52.631317,
+                  "y": 1216.2245,
+                  "z": 267.6218
+              },
+              "rollTime": 0,
+              "speed": 83.787636,
+              "spin": {
+                  "x": -41.948746,
+                  "y": 43.597958,
+                  "z": 0
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.41869318,
+                  "y": 0.5416351
+              },
+              "type": "apex",
+              "windVelocity": {
+                  "x": -2.0103478,
+                  "y": -2.0103478,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 649.98706,
+              "height": 0.2743683,
+              "milliseconds": 6878,
+              "pinDistance": 393.61264,
+              "position": {
+                  "x": -121.11918,
+                  "y": 1052.1692,
+                  "z": 151.01888
+              },
+              "rollTime": 0,
+              "speed": 66.828224,
+              "spin": {
+                  "x": 7.7794003,
+                  "y": -9.773671,
+                  "z": 0.9494927
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.32949907,
+                  "y": 0.37227947
+              },
+              "type": "carry",
+              "windVelocity": {
+                  "x": -4.4789743,
+                  "y": -4.4789743,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 671.0193,
+              "height": 0.070007324,
+              "milliseconds": 9901,
+              "pinDistance": 373.10852,
+              "position": {
+                  "x": -140.11327,
+                  "y": 1041.65,
+                  "z": 150.62645
+              },
+              "rollTime": 0,
+              "speed": 0.113499545,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.32929075,
+                  "y": 0.3563674
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -7.0026035,
+                  "y": -7.0026035,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": true,
+      "totalDistance": 671.0193,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:34:27.182757Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 12,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 260.767,
+      "carryDistance": 402.84073,
+      "clientTime": "2023-04-11T14:34:30.32Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 114.345,
+      "clubPathAngle": 0,
+      "clubTypeKey": "9Iron",
+      "courseHoleIndex": 4,
+      "createdAt": "2023-04-11T14:34:53.133248Z",
+      "detectedHoleIndex": 4,
+      "endedInHole": false,
+      "finalized": true,
+      "id": "deec53a8-45f7-4e46-9254-91ba21a1367b",
+      "launchAngle": 23,
+      "launchBackSpin": 7560,
+      "launchBallSpeed": 146.3616,
+      "launchDirection": 0,
+      "launchSideSpin": 0,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 17,
+      "roundScoreWithHandicap": 19,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 1,
+      "segmentScore": 2,
+      "segmentScoreIndex": 4,
+      "shotIndex": 12,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.08000183,
+              "milliseconds": 0,
+              "pinDistance": 373.10852,
+              "position": {
+                  "x": -140.11327,
+                  "y": 1041.65,
+                  "z": 150.63644
+              },
+              "rollTime": 0,
+              "speed": 146.3616,
+              "spin": {
+                  "x": -20.21666,
+                  "y": 124.36754,
+                  "z": 0
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.32929075,
+                  "y": 0.3563674
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -3.638286,
+                  "y": -3.638286,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 269.92194,
+              "height": 79.20068,
+              "milliseconds": 2783,
+              "pinDistance": 117.1527,
+              "position": {
+                  "x": -392.65674,
+                  "y": 999.9806,
+                  "z": 236.32957
+              },
+              "rollTime": 0,
+              "speed": 64.130226,
+              "spin": {
+                  "x": -18.085974,
+                  "y": 111.26009,
+                  "z": 0
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.45287976,
+                  "y": 0.17925358
+              },
+              "type": "apex",
+              "windVelocity": {
+                  "x": -4.741991,
+                  "y": -4.741991,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 402.84073,
+              "height": 0.19937134,
+              "milliseconds": 5500,
+              "pinDistance": 29.703392,
+              "position": {
+                  "x": -537.3867,
+                  "y": 975.3543,
+                  "z": 158.33867
+              },
+              "rollTime": 0,
+              "speed": 14.769027,
+              "spin": {
+                  "x": -4.43625,
+                  "y": 37.21411,
+                  "z": -1.6768618
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.52274734,
+                  "y": 0.07748985
+              },
+              "type": "carry",
+              "windVelocity": {
+                  "x": -3.265887,
+                  "y": -3.265887,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 410.90463,
+              "height": 0.070007324,
+              "milliseconds": 7084,
+              "pinDistance": 37.731575,
+              "position": {
+                  "x": -545.49445,
+                  "y": 974.9463,
+                  "z": 158.34004
+              },
+              "rollTime": 0,
+              "speed": 0.16758153,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.5279115,
+                  "y": 0.072129846
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -2.454001,
+                  "y": -2.454001,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": false,
+      "totalDistance": 410.90463,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:34:53.133248Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 13,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 79.55768,
+      "carryDistance": 52.848812,
+      "clientTime": "2023-04-11T14:34:48.313Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 36.363636,
+      "clubPathAngle": 0,
+      "clubTypeKey": "SandWedge",
+      "courseHoleIndex": 4,
+      "createdAt": "2023-04-11T14:35:10.226461Z",
+      "detectedHoleIndex": 4,
+      "endedInHole": false,
+      "finalized": true,
+      "id": "f158881a-b1e2-4844-ba87-af796e953fd1",
+      "launchAngle": 33,
+      "launchBackSpin": 3400,
+      "launchBallSpeed": 44,
+      "launchDirection": 0.75,
+      "launchSideSpin": -75,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 18,
+      "roundScoreWithHandicap": 20,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 1,
+      "segmentScore": 3,
+      "segmentScoreIndex": 4,
+      "shotIndex": 13,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.08000183,
+              "milliseconds": 0,
+              "pinDistance": 37.731575,
+              "position": {
+                  "x": -545.49445,
+                  "y": 974.9463,
+                  "z": 158.35004
+              },
+              "rollTime": 0,
+              "speed": 44,
+              "spin": {
+                  "x": 9.540248,
+                  "y": -55.857807,
+                  "z": -1.25
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.5279115,
+                  "y": 0.072129846
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -2.9099371,
+                  "y": -2.9099371,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 28.986044,
+              "height": 9.843552,
+              "milliseconds": 799,
+              "pinDistance": 10.2508335,
+              "position": {
+                  "x": -518.38654,
+                  "y": 979.52563,
+                  "z": 167.53598
+              },
+              "rollTime": 0,
+              "speed": 32.3731,
+              "spin": {
+                  "x": 9.239694,
+                  "y": -54.098076,
+                  "z": -1.2106203
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.5147827,
+                  "y": 0.091178656
+              },
+              "type": "apex",
+              "windVelocity": {
+                  "x": -2.1784801,
+                  "y": -2.1784801,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 52.848812,
+              "height": 0.123428345,
+              "milliseconds": 1626,
+              "pinDistance": 15.128007,
+              "position": {
+                  "x": -493.37933,
+                  "y": 983.6831,
+                  "z": 157.52553
+              },
+              "rollTime": 0,
+              "speed": 35.50575,
+              "spin": {
+                  "x": 4.775265,
+                  "y": -25.138521,
+                  "z": 0.78814065
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.50258493,
+                  "y": 0.108727634
+              },
+              "type": "carry",
+              "windVelocity": {
+                  "x": -1.3090799,
+                  "y": -1.3090799,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 74.03917,
+              "height": 0.069992065,
+              "milliseconds": 7439,
+              "pinDistance": 36.305084,
+              "position": {
+                  "x": -472.98056,
+                  "y": 989.80914,
+                  "z": 156.72809
+              },
+              "rollTime": 0,
+              "speed": 0.13347873,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.49615434,
+                  "y": 0.12400216
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -1.1566836,
+                  "y": -1.1566836,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": false,
+      "totalDistance": 74.03917,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:35:10.226461Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 14,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 257.23102,
+      "clientTime": "2023-04-11T14:35:08.861Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 13.112583,
+      "clubPathAngle": 0,
+      "clubTypeKey": "Putter",
+      "courseHoleIndex": 4,
+      "createdAt": "2023-04-11T14:35:30.140224Z",
+      "detectedHoleIndex": 4,
+      "endedInHole": true,
+      "finalized": true,
+      "id": "fc5fbee1-97d1-444c-a613-a92896317bde",
+      "launchAngle": 0,
+      "launchBackSpin": 0,
+      "launchBallSpeed": 19.800001,
+      "launchDirection": -0.5,
+      "launchSideSpin": 0,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 20,
+      "roundScoreWithHandicap": 22,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 2,
+      "segmentScore": 5,
+      "segmentScoreIndex": 4,
+      "shotIndex": 14,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.07998657,
+              "milliseconds": 0,
+              "pinDistance": 36.305084,
+              "position": {
+                  "x": -472.98056,
+                  "y": 989.80914,
+                  "z": 156.73808
+              },
+              "rollTime": 0,
+              "speed": 19.800001,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.49615434,
+                  "y": 0.12400216
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -6.110016,
+                  "y": -6.110016,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 35.46415,
+              "height": 0.070007324,
+              "milliseconds": 6350,
+              "pinDistance": 3.7589114,
+              "position": {
+                  "x": -508.17908,
+                  "y": 985.5381,
+                  "z": 157.46503
+              },
+              "rollTime": 0,
+              "speed": 0.104261644,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.5153572,
+                  "y": 0.0998559
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -6.110016,
+                  "y": -6.110016,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": false,
+      "totalDistance": 35.46415,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:35:30.140224Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 15,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 138.91328,
+      "carryDistance": 480.59497,
+      "clientTime": "2023-04-11T14:35:30.707Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 120.18405,
+      "clubPathAngle": 0,
+      "clubTypeKey": "6Iron",
+      "courseHoleIndex": 5,
+      "createdAt": "2023-04-11T14:35:54.22938Z",
+      "detectedHoleIndex": 5,
+      "endedInHole": false,
+      "finalized": true,
+      "id": "c190dd23-804d-4a4d-a5bc-d7b7f8518aea",
+      "launchAngle": 20,
+      "launchBackSpin": 5796,
+      "launchBallSpeed": 167.05583,
+      "launchDirection": -0.25,
+      "launchSideSpin": 75,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 21,
+      "roundScoreWithHandicap": 24,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 1,
+      "segmentScore": 1,
+      "segmentScoreIndex": 5,
+      "shotIndex": 15,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.08000183,
+              "milliseconds": 0,
+              "pinDistance": 487.7999,
+              "position": {
+                  "x": -736.0698,
+                  "y": 922.1512,
+                  "z": 168.10887
+              },
+              "rollTime": 0,
+              "speed": 167.05583,
+              "spin": {
+                  "x": -72.53124,
+                  "y": -63.80265,
+                  "z": 1.25
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.62834156,
+                  "y": 0.90576386
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -5.3556476,
+                  "y": -5.3556476,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 337.0343,
+              "height": 99.21127,
+              "milliseconds": 3166,
+              "pinDistance": 166.31969,
+              "position": {
+                  "x": -527.4299,
+                  "y": 677.18884,
+                  "z": 268.3832
+              },
+              "rollTime": 0,
+              "speed": 65.24762,
+              "spin": {
+                  "x": -63.89925,
+                  "y": -56.209496,
+                  "z": 1.1012379
+              },
+              "terrainType": "kTerrainRough",
+              "topViewPosition": {
+                  "x": 0.50360024,
+                  "y": 0.3820461
+              },
+              "type": "apex",
+              "windVelocity": {
+                  "x": -8.149634,
+                  "y": -8.149634,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 480.59497,
+              "height": 0.2077179,
+              "milliseconds": 6234,
+              "pinDistance": 21.843786,
+              "position": {
+                  "x": -431.00507,
+                  "y": 550.8552,
+                  "z": 174.9162
+              },
+              "rollTime": 0,
+              "speed": 12.373375,
+              "spin": {
+                  "x": -6.3285127,
+                  "y": -4.404994,
+                  "z": -0.24490753
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.46977428,
+                  "y": 0.12209666
+              },
+              "type": "carry",
+              "windVelocity": {
+                  "x": -2.3495374,
+                  "y": -2.3495374,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 487.67084,
+              "height": 0.069992065,
+              "milliseconds": 8311,
+              "pinDistance": 22.335947,
+              "position": {
+                  "x": -427.7332,
+                  "y": 544.3846,
+                  "z": 174.72433
+              },
+              "rollTime": 0,
+              "speed": 0.15072595,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainFringe",
+              "topViewPosition": {
+                  "x": 0.47259158,
+                  "y": 0.110295594
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -2.2127292,
+                  "y": -2.2127292,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": true,
+      "totalDistance": 487.67084,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:35:54.22938Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 16,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 49.91237,
+      "carryDistance": 21.075151,
+      "clientTime": "2023-04-11T14:35:49.255Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 23.4,
+      "clubPathAngle": 0,
+      "clubTypeKey": "SandWedge",
+      "courseHoleIndex": 5,
+      "createdAt": "2023-04-11T14:36:09.13854Z",
+      "detectedHoleIndex": 5,
+      "endedInHole": false,
+      "finalized": true,
+      "id": "c15c406c-6f10-4e49-bb0a-4d182d179c84",
+      "launchAngle": 33,
+      "launchBackSpin": 2187.9001,
+      "launchBallSpeed": 28.314001,
+      "launchDirection": 1,
+      "launchSideSpin": -300,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 22,
+      "roundScoreWithHandicap": 25,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 1,
+      "segmentScore": 2,
+      "segmentScoreIndex": 5,
+      "shotIndex": 16,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.07998657,
+              "milliseconds": 0,
+              "pinDistance": 22.335947,
+              "position": {
+                  "x": -427.7332,
+                  "y": 544.3846,
+                  "z": 174.73433
+              },
+              "rollTime": 0,
+              "speed": 28.314001,
+              "spin": {
+                  "x": 22.991488,
+                  "y": -28.303497,
+                  "z": -5
+              },
+              "terrainType": "kTerrainFringe",
+              "topViewPosition": {
+                  "x": 0.47259158,
+                  "y": 0.110295594
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -7.7056556,
+                  "y": -7.7056556,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 11.989285,
+              "height": 3.430725,
+              "milliseconds": 500,
+              "pinDistance": 10.930559,
+              "position": {
+                  "x": -418.88202,
+                  "y": 551.5829,
+                  "z": 178.42001
+              },
+              "rollTime": 0,
+              "speed": 22.015736,
+              "spin": {
+                  "x": 22.536076,
+                  "y": -27.742867,
+                  "z": -4.90096
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.43536282,
+                  "y": 0.11208463
+              },
+              "type": "apex",
+              "windVelocity": {
+                  "x": -7.4612784,
+                  "y": -7.4612784,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 21.075151,
+              "height": 0.0990448,
+              "milliseconds": 958,
+              "pinDistance": 1.3139049,
+              "position": {
+                  "x": -411.39688,
+                  "y": 557.6906,
+                  "z": 175.22092
+              },
+              "rollTime": 0,
+              "speed": 24.032139,
+              "spin": {
+                  "x": 11.701176,
+                  "y": -14.053539,
+                  "z": 0.25702477
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.40384284,
+                  "y": 0.11362529
+              },
+              "type": "carry",
+              "windVelocity": {
+                  "x": -7.165514,
+                  "y": -7.165514,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 33.969032,
+              "height": 0.070007324,
+              "milliseconds": 4757,
+              "pinDistance": 11.632776,
+              "position": {
+                  "x": -401.89545,
+                  "y": 566.43414,
+                  "z": 175.08575
+              },
+              "rollTime": 0,
+              "speed": 0.12812477,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.36203378,
+                  "y": 0.11693287
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -7.067262,
+                  "y": -7.067262,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": false,
+      "totalDistance": 33.969032,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:36:09.13854Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 17,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 228.77544,
+      "clientTime": "2023-04-11T14:36:04.803Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 5.3642387,
+      "clubPathAngle": 0,
+      "clubTypeKey": "Putter",
+      "courseHoleIndex": 5,
+      "createdAt": "2023-04-11T14:36:23.181791Z",
+      "detectedHoleIndex": 5,
+      "endedInHole": true,
+      "finalized": true,
+      "id": "52f2ae73-0987-4e4f-afd6-c484b35d46f7",
+      "launchAngle": 0,
+      "launchBackSpin": 0,
+      "launchBallSpeed": 8.1,
+      "launchDirection": 0.25,
+      "launchSideSpin": 0,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 24,
+      "roundScoreWithHandicap": 27,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 2,
+      "segmentScore": 4,
+      "segmentScoreIndex": 5,
+      "shotIndex": 17,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.08000183,
+              "milliseconds": 0,
+              "pinDistance": 11.632776,
+              "position": {
+                  "x": -401.89545,
+                  "y": 566.43414,
+                  "z": 175.09575
+              },
+              "rollTime": 0,
+              "speed": 8.1,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.36203378,
+                  "y": 0.11693287
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -6.56898,
+                  "y": -6.56898,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 11.623276,
+              "height": 0.070007324,
+              "milliseconds": 3566,
+              "pinDistance": 0.61121863,
+              "position": {
+                  "x": -411.02786,
+                  "y": 559.2443,
+                  "z": 175.1734
+              },
+              "rollTime": 0,
+              "speed": 0.11997251,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.4000148,
+                  "y": 0.115410805
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -6.56898,
+                  "y": -6.56898,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": false,
+      "totalDistance": 11.623276,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:36:23.181791Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 18,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 54.96532,
+      "carryDistance": 790.6129,
+      "clientTime": "2023-04-11T14:36:31.45Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 151.97284,
+      "clubPathAngle": 0,
+      "clubTypeKey": "1Wood",
+      "courseHoleIndex": 6,
+      "createdAt": "2023-04-11T14:36:55.146207Z",
+      "detectedHoleIndex": 6,
+      "endedInHole": false,
+      "finalized": true,
+      "id": "d1a478eb-8f32-4b4e-a61e-bec163030341",
+      "launchAngle": 12,
+      "launchBackSpin": 2908.4001,
+      "launchBallSpeed": 224.91978,
+      "launchDirection": 0.25,
+      "launchSideSpin": -150,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 26,
+      "roundScoreWithHandicap": 29,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 2,
+      "segmentScore": 2,
+      "segmentScoreIndex": 6,
+      "shotIndex": 18,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.08001709,
+              "milliseconds": 0,
+              "pinDistance": 1132.6058,
+              "position": {
+                  "x": -228.41351,
+                  "y": 466.07803,
+                  "z": 172.1106
+              },
+              "rollTime": 0,
+              "speed": 224.91978,
+              "spin": {
+                  "x": 27.65375,
+                  "y": -39.811237,
+                  "z": -2.5
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.31574494,
+                  "y": 0.85026693
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -2.2413125,
+                  "y": -2.2413125,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 505.65787,
+              "height": 104.797745,
+              "milliseconds": 3283,
+              "pinDistance": 670.1476,
+              "position": {
+                  "x": 183.66693,
+                  "y": 745.8516,
+                  "z": 259.32477
+              },
+              "rollTime": 0,
+              "speed": 106.79323,
+              "spin": {
+                  "x": 24.249218,
+                  "y": -34.90997,
+                  "z": -2.1922183
+              },
+              "terrainType": "kTerrainEarth",
+              "topViewPosition": {
+                  "x": 0.4907469,
+                  "y": 0.54369295
+              },
+              "type": "apex",
+              "windVelocity": {
+                  "x": -1.0628796,
+                  "y": -1.0628796,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 790.6129,
+              "height": 9.464478,
+              "milliseconds": 6700,
+              "pinDistance": 441.23544,
+              "position": {
+                  "x": 428.8327,
+                  "y": 905.1643,
+                  "z": 154.8082
+              },
+              "rollTime": 0,
+              "speed": 92.182724,
+              "spin": {
+                  "x": 16.802101,
+                  "y": -24.188868,
+                  "z": -1.5189711
+              },
+              "terrainType": "kTerrainWater",
+              "topViewPosition": {
+                  "x": 0.60072446,
+                  "y": 0.3648029
+              },
+              "type": "carry",
+              "windVelocity": {
+                  "x": -3.7419405,
+                  "y": -3.7419405,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 795.521,
+              "height": 0.86351013,
+              "milliseconds": 8683,
+              "pinDistance": 438.19464,
+              "position": {
+                  "x": 432.766,
+                  "y": 907.7042,
+                  "z": 146.38896
+              },
+              "rollTime": 0,
+              "speed": 2.4070246,
+              "spin": {
+                  "x": 0,
+                  "y": -0,
+                  "z": -0
+              },
+              "terrainType": "kTerrainWater",
+              "topViewPosition": {
+                  "x": 0.6025019,
+                  "y": 0.36194074
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -7.4494624,
+                  "y": -7.4494624,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": true,
+      "totalDistance": 795.521,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:36:55.146207Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 20,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 84.44012,
+      "carryDistance": 261.0542,
+      "clientTime": "2023-04-11T14:37:02.646Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 81.36023,
+      "clubPathAngle": 0,
+      "clubTypeKey": "3Wood",
+      "courseHoleIndex": 6,
+      "createdAt": "2023-04-11T14:37:21.14662Z",
+      "detectedHoleIndex": 6,
+      "endedInHole": false,
+      "finalized": true,
+      "id": "a1e03b20-48bd-4449-b84d-ece4e63de8d9",
+      "launchAngle": 15.155579,
+      "launchBackSpin": 2058,
+      "launchBallSpeed": 119.59954,
+      "launchDirection": 1.2569969,
+      "launchSideSpin": 90,
+      "mulligan": false,
+      "penaltyShot": "rehit",
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 28,
+      "roundScoreWithHandicap": 31,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 2,
+      "segmentScore": 4,
+      "segmentScoreIndex": 6,
+      "shotIndex": 19,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.08001709,
+              "milliseconds": 0,
+              "pinDistance": 816.067,
+              "position": {
+                  "x": 50.527576,
+                  "y": 654.17615,
+                  "z": 155.83426
+              },
+              "rollTime": 0,
+              "speed": 119.59954,
+              "spin": {
+                  "x": 2.5734973,
+                  "y": -34.20332,
+                  "z": 1.5
+              },
+              "terrainType": "kTerrainDeepGrass",
+              "topViewPosition": {
+                  "x": 0.43525907,
+                  "y": 0.64337426
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -10.361468,
+                  "y": -10.361468,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 148.22867,
+              "height": 24.5141,
+              "milliseconds": 1466,
+              "pinDistance": 736.96545,
+              "position": {
+                  "x": 196.53424,
+                  "y": 665.9258,
+                  "z": 178.54407
+              },
+              "rollTime": 0,
+              "speed": 86.99589,
+              "spin": {
+                  "x": 2.4268148,
+                  "y": -32.253815,
+                  "z": 1.4145042
+              },
+              "terrainType": "kTerrainEarth",
+              "topViewPosition": {
+                  "x": 0.569013,
+                  "y": 0.5776601
+              },
+              "type": "apex",
+              "windVelocity": {
+                  "x": -8.204095,
+                  "y": -8.204095,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 261.0542,
+              "height": 0.7388916,
+              "milliseconds": 2933,
+              "pinDistance": 689.6636,
+              "position": {
+                  "x": 310.65717,
+                  "y": 676.1149,
+                  "z": 155.0701
+              },
+              "rollTime": 0,
+              "speed": 77.3125,
+              "spin": {
+                  "x": 1.8179791,
+                  "y": -24.162018,
+                  "z": 1.0596344
+              },
+              "terrainType": "kTerrainWater",
+              "topViewPosition": {
+                  "x": 0.6727334,
+                  "y": 0.52580225
+              },
+              "type": "carry",
+              "windVelocity": {
+                  "x": -4.026873,
+                  "y": -4.026873,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 264.89597,
+              "height": 0.07002258,
+              "milliseconds": 3376,
+              "pinDistance": 687.9594,
+              "position": {
+                  "x": 314.44333,
+                  "y": 676.87286,
+                  "z": 154.04317
+              },
+              "rollTime": 0,
+              "speed": 0.18396406,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainEarth",
+              "topViewPosition": {
+                  "x": 0.67582965,
+                  "y": 0.52387565
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -3.5734572,
+                  "y": -3.5734572,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": false,
+      "totalDistance": 264.89597,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:37:21.14662Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 22,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 84.29879,
+      "carryDistance": 396.81012,
+      "clientTime": "2023-04-11T14:37:32.992Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 98.72967,
+      "clubPathAngle": 0,
+      "clubTypeKey": "4Hybrid",
+      "courseHoleIndex": 6,
+      "createdAt": "2023-04-11T14:37:53.231816Z",
+      "detectedHoleIndex": 6,
+      "endedInHole": false,
+      "finalized": true,
+      "id": "2c1d0aea-3ed6-424e-8f0b-afa6f07cb06a",
+      "launchAngle": 16.173763,
+      "launchBackSpin": 3216.0002,
+      "launchBallSpeed": 145.13261,
+      "launchDirection": 0.47043586,
+      "launchSideSpin": 45,
+      "mulligan": false,
+      "penaltyShot": "rehit",
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 29,
+      "roundScoreWithHandicap": 32,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 1,
+      "segmentScore": 5,
+      "segmentScoreIndex": 6,
+      "shotIndex": 20,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.08000183,
+              "milliseconds": 0,
+              "pinDistance": 814.77124,
+              "position": {
+                  "x": 53.819763,
+                  "y": 653.62036,
+                  "z": 155.70201
+              },
+              "rollTime": 0,
+              "speed": 145.13261,
+              "spin": {
+                  "x": 4.886582,
+                  "y": -53.37679,
+                  "z": 0.75
+              },
+              "terrainType": "kTerrainEarth",
+              "topViewPosition": {
+                  "x": 0.43894887,
+                  "y": 0.6422956
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -7.4947453,
+                  "y": -7.4947453,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 242.11058,
+              "height": 45.193863,
+              "milliseconds": 2149,
+              "pinDistance": 695.3691,
+              "position": {
+                  "x": 290.76205,
+                  "y": 675.8168,
+                  "z": 200.23518
+              },
+              "rollTime": 0,
+              "speed": 88.737755,
+              "spin": {
+                  "x": 4.483772,
+                  "y": -48.97685,
+                  "z": 0.6881761
+              },
+              "terrainType": "kTerrainEarth",
+              "topViewPosition": {
+                  "x": 0.6534381,
+                  "y": 0.53411674
+              },
+              "type": "apex",
+              "windVelocity": {
+                  "x": -4.9917116,
+                  "y": -4.9917116,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 396.81012,
+              "height": 0.19836426,
+              "milliseconds": 4251,
+              "pinDistance": 652.55133,
+              "position": {
+                  "x": 448.86682,
+                  "y": 690.93756,
+                  "z": 157.57892
+              },
+              "rollTime": 0,
+              "speed": 36.343456,
+              "spin": {
+                  "x": 0.14217016,
+                  "y": -1.8628193,
+                  "z": -0.058545467
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.7963062,
+                  "y": 0.46178013
+              },
+              "type": "carry",
+              "windVelocity": {
+                  "x": -7.5553827,
+                  "y": -7.5553827,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 421.27277,
+              "height": 0.070007324,
+              "milliseconds": 5779,
+              "pinDistance": 649.68317,
+              "position": {
+                  "x": 473.26456,
+                  "y": 692.74884,
+                  "z": 158.1054
+              },
+              "rollTime": 0,
+              "speed": 0.20072402,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainRough",
+              "topViewPosition": {
+                  "x": 0.8187814,
+                  "y": 0.4508739
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -8.3425455,
+                  "y": -8.3425455,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": false,
+      "totalDistance": 421.27277,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:37:53.231816Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 23,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 5.163036,
+      "carryDistance": 559.06085,
+      "clientTime": "2023-04-11T14:37:49.207Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 122.101456,
+      "clubPathAngle": 0,
+      "clubTypeKey": "3Wood",
+      "courseHoleIndex": 6,
+      "createdAt": "2023-04-11T14:38:11.206986Z",
+      "detectedHoleIndex": 6,
+      "endedInHole": false,
+      "finalized": true,
+      "id": "f079c9ad-6082-4349-a795-3e6a3536a39a",
+      "launchAngle": 16.5,
+      "launchBackSpin": 2769.2378,
+      "launchBallSpeed": 179.48915,
+      "launchDirection": 0,
+      "launchSideSpin": 0,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 30,
+      "roundScoreWithHandicap": 33,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 1,
+      "segmentScore": 6,
+      "segmentScoreIndex": 6,
+      "shotIndex": 21,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.08000183,
+              "milliseconds": 0,
+              "pinDistance": 649.68317,
+              "position": {
+                  "x": 473.26456,
+                  "y": 692.74884,
+                  "z": 158.11539
+              },
+              "rollTime": 0,
+              "speed": 179.48915,
+              "spin": {
+                  "x": 45.9667,
+                  "y": -4.1533985,
+                  "z": 0
+              },
+              "terrainType": "kTerrainRough",
+              "topViewPosition": {
+                  "x": 0.8187814,
+                  "y": 0.4508739
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -9.524879,
+                  "y": -9.524879,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 361.1336,
+              "height": 70.85536,
+              "milliseconds": 2783,
+              "pinDistance": 297.02496,
+              "position": {
+                  "x": 499.56384,
+                  "y": 1045.3851,
+                  "z": 231.41946
+              },
+              "rollTime": 0,
+              "speed": 95.085785,
+              "spin": {
+                  "x": 41.122158,
+                  "y": -3.7156622,
+                  "z": 0
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.55505604,
+                  "y": 0.26690406
+              },
+              "type": "apex",
+              "windVelocity": {
+                  "x": -9.341552,
+                  "y": -9.341552,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 559.06085,
+              "height": 0.18066406,
+              "milliseconds": 5379,
+              "pinDistance": 93.08402,
+              "position": {
+                  "x": 506.50232,
+                  "y": 1250.7483,
+                  "z": 167.1123
+              },
+              "rollTime": 0,
+              "speed": 86.18227,
+              "spin": {
+                  "x": -10.890186,
+                  "y": -0.15947205,
+                  "z": -0.4386736
+              },
+              "terrainType": "kTerrainRough",
+              "topViewPosition": {
+                  "x": 0.39324373,
+                  "y": 0.16320574
+              },
+              "type": "carry",
+              "windVelocity": {
+                  "x": -8.248248,
+                  "y": -8.248248,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 578.9377,
+              "height": 0.069992065,
+              "milliseconds": 6802,
+              "pinDistance": 73.26886,
+              "position": {
+                  "x": 505.28397,
+                  "y": 1270.724,
+                  "z": 167.51157
+              },
+              "rollTime": 0,
+              "speed": 0.14546517,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainRough",
+              "topViewPosition": {
+                  "x": 0.37564468,
+                  "y": 0.15389633
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -6.964937,
+                  "y": -6.964937,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": false,
+      "totalDistance": 578.9377,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:38:11.206986Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 24,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 347.41873,
+      "carryDistance": 57.69816,
+      "clientTime": "2023-04-11T14:38:10.87Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 38.258045,
+      "clubPathAngle": 0,
+      "clubTypeKey": "SandWedge",
+      "courseHoleIndex": 6,
+      "createdAt": "2023-04-11T14:38:31.202848Z",
+      "detectedHoleIndex": 6,
+      "endedInHole": true,
+      "finalized": true,
+      "id": "787c82b9-bff2-4248-8d2e-3d0e8da0a14e",
+      "launchAngle": 33,
+      "launchBackSpin": 2787.6826,
+      "launchBallSpeed": 46.292236,
+      "launchDirection": 0.75,
+      "launchSideSpin": -55.902725,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 32,
+      "roundScoreWithHandicap": 35,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 2,
+      "segmentScore": 8,
+      "segmentScoreIndex": 6,
+      "shotIndex": 22,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.07998657,
+              "milliseconds": 0,
+              "pinDistance": 73.26886,
+              "position": {
+                  "x": 505.28397,
+                  "y": 1270.724,
+                  "z": 167.52156
+              },
+              "rollTime": 0,
+              "speed": 46.292236,
+              "spin": {
+                  "x": 45.47433,
+                  "y": 9.525996,
+                  "z": -0.9317121
+              },
+              "terrainType": "kTerrainRough",
+              "topViewPosition": {
+                  "x": 0.37564468,
+                  "y": 0.15389633
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -6.02273,
+                  "y": -6.02273,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 31.332302,
+              "height": 11.400818,
+              "milliseconds": 816,
+              "pinDistance": 43.55375,
+              "position": {
+                  "x": 498.98624,
+                  "y": 1299.765,
+                  "z": 177.4549
+              },
+              "rollTime": 0,
+              "speed": 34.43045,
+              "spin": {
+                  "x": 44.01236,
+                  "y": 9.21974,
+                  "z": -0.9017582
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.34561324,
+                  "y": 0.14222044
+              },
+              "type": "apex",
+              "windVelocity": {
+                  "x": -3.5497246,
+                  "y": -3.5497246,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 57.69816,
+              "height": 0.14451599,
+              "milliseconds": 1674,
+              "pinDistance": 15.576835,
+              "position": {
+                  "x": 492.77325,
+                  "y": 1327.0433,
+                  "z": 166.68987
+              },
+              "rollTime": 0,
+              "speed": 31.86099,
+              "spin": {
+                  "x": 16.79001,
+                  "y": 4.4300666,
+                  "z": 0.69105834
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.31711245,
+                  "y": 0.13137543
+              },
+              "type": "carry",
+              "windVelocity": {
+                  "x": -2.0192964,
+                  "y": -2.0192964,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 77.551476,
+              "height": 0.070007324,
+              "milliseconds": 6486,
+              "pinDistance": 5.5442147,
+              "position": {
+                  "x": 484.8717,
+                  "y": 1345.5371,
+                  "z": 166.76727
+              },
+              "rollTime": 0,
+              "speed": 0.13398015,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.29416633,
+                  "y": 0.12553751
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -1.7737048,
+                  "y": -1.7737048,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": false,
+      "totalDistance": 77.551476,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:38:31.202848Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 25,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 190.05424,
+      "carryDistance": 735.6359,
+      "clientTime": "2023-04-11T14:38:35.617Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 146.4549,
+      "clubPathAngle": 0,
+      "clubTypeKey": "1Wood",
+      "courseHoleIndex": 7,
+      "createdAt": "2023-04-11T14:39:00.173533Z",
+      "detectedHoleIndex": 7,
+      "endedInHole": false,
+      "finalized": true,
+      "id": "a24745cb-1f9d-4048-9b75-288647679bef",
+      "launchAngle": 12,
+      "launchBackSpin": 2802.7998,
+      "launchBallSpeed": 216.75327,
+      "launchDirection": 0,
+      "launchSideSpin": 0,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 33,
+      "roundScoreWithHandicap": 36,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 1,
+      "segmentScore": 1,
+      "segmentScoreIndex": 7,
+      "shotIndex": 23,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.08001709,
+              "milliseconds": 0,
+              "pinDistance": 1408.8098,
+              "position": {
+                  "x": 677.0588,
+                  "y": 1209.8953,
+                  "z": 168.27237
+              },
+              "rollTime": 0,
+              "speed": 216.75327,
+              "spin": {
+                  "x": -45.99595,
+                  "y": 8.155233,
+                  "z": 0
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.5985411,
+                  "y": 0.84493876
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -5.8711457,
+                  "y": -5.8711457,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 469.93228,
+              "height": 82.96275,
+              "milliseconds": 3049,
+              "pinDistance": 968.17316,
+              "position": {
+                  "x": 590.0943,
+                  "y": 754.4354,
+                  "z": 244.62582
+              },
+              "rollTime": 0,
+              "speed": 111.29586,
+              "spin": {
+                  "x": -40.711575,
+                  "y": 7.218298,
+                  "z": 0
+              },
+              "terrainType": "kTerrainDeepGrass",
+              "topViewPosition": {
+                  "x": 0.49596223,
+                  "y": 0.60547304
+              },
+              "type": "apex",
+              "windVelocity": {
+                  "x": -9.662676,
+                  "y": -9.662676,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 735.6359,
+              "height": 0.26942444,
+              "milliseconds": 6028,
+              "pinDistance": 718.1032,
+              "position": {
+                  "x": 528.7264,
+                  "y": 489.37128,
+                  "z": 166.56177
+              },
+              "rollTime": 0,
+              "speed": 93.19175,
+              "spin": {
+                  "x": -0.77923137,
+                  "y": 0.1280197,
+                  "z": 0.09801297
+              },
+              "terrainType": "kTerrainDeepGrass",
+              "topViewPosition": {
+                  "x": 0.44673163,
+                  "y": 0.46390045
+              },
+              "type": "carry",
+              "windVelocity": {
+                  "x": -6.7622843,
+                  "y": -6.7622843,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 764.4974,
+              "height": 0.069992065,
+              "milliseconds": 9551,
+              "pinDistance": 697.13165,
+              "position": {
+                  "x": 531.14343,
+                  "y": 459.45233,
+                  "z": 167.70352
+              },
+              "rollTime": 0,
+              "speed": 0.2346395,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainDeepGrass",
+              "topViewPosition": {
+                  "x": 0.4320826,
+                  "y": 0.44984078
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -7.0192575,
+                  "y": -7.0192575,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": true,
+      "totalDistance": 764.4974,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:39:00.173533Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 26,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 222.00179,
+      "carryDistance": 13.193636,
+      "clientTime": "2023-04-11T14:38:56.531Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 96.45608,
+      "clubPathAngle": 0,
+      "clubTypeKey": "3Wood",
+      "courseHoleIndex": 7,
+      "createdAt": "2023-04-11T14:39:17.229755Z",
+      "detectedHoleIndex": 7,
+      "endedInHole": false,
+      "finalized": true,
+      "id": "36189f56-ae0d-4644-9ea8-2d1bc37f15f5",
+      "launchAngle": 14.517183,
+      "launchBackSpin": 2058.2102,
+      "launchBallSpeed": 141.79044,
+      "launchDirection": -0.3311398,
+      "launchSideSpin": 300,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 34,
+      "roundScoreWithHandicap": 37,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 1,
+      "segmentScore": 2,
+      "segmentScoreIndex": 7,
+      "shotIndex": 24,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.07998657,
+              "milliseconds": 0,
+              "pinDistance": 697.13165,
+              "position": {
+                  "x": 531.14343,
+                  "y": 459.45233,
+                  "z": 167.71352
+              },
+              "rollTime": 0,
+              "speed": 141.79044,
+              "spin": {
+                  "x": -25.623995,
+                  "y": 22.806606,
+                  "z": 5
+              },
+              "terrainType": "kTerrainDeepGrass",
+              "topViewPosition": {
+                  "x": 0.4320826,
+                  "y": 0.44984078
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -4.3385434,
+                  "y": -4.3385434,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 174.07007,
+              "height": 26.72409,
+              "milliseconds": 1545,
+              "pinDistance": 525.79346,
+              "position": {
+                  "x": 423.8879,
+                  "y": 325.35837,
+                  "z": 196.26955
+              },
+              "rollTime": 0,
+              "speed": 97.76989,
+              "spin": {
+                  "x": -16.14561,
+                  "y": 18.51901,
+                  "z": 12.45535
+              },
+              "terrainType": "kTerrainDeepGrass",
+              "topViewPosition": {
+                  "x": 0.4813338,
+                  "y": 0.3625586
+              },
+              "type": "apex",
+              "windVelocity": {
+                  "x": -6.611924,
+                  "y": -6.611924,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 13.193636,
+              "height": 0.21679688,
+              "milliseconds": 95,
+              "pinDistance": 684.3807,
+              "position": {
+                  "x": 522.72876,
+                  "y": 449.87106,
+                  "z": 171.09946
+              },
+              "rollTime": 0,
+              "speed": 228.73659,
+              "spin": {
+                  "x": -17.110077,
+                  "y": 19.625256,
+                  "z": 13.199371
+              },
+              "terrainType": "kTerrainDeepGrass",
+              "topViewPosition": {
+                  "x": 0.43633255,
+                  "y": 0.4434499
+              },
+              "type": "carry",
+              "windVelocity": {
+                  "x": -4.402998,
+                  "y": -4.402998,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 360.72028,
+              "height": 0.07002258,
+              "milliseconds": 6283,
+              "pinDistance": 340.25125,
+              "position": {
+                  "x": 318.45297,
+                  "y": 168.1466,
+                  "z": 172.49617
+              },
+              "rollTime": 0,
+              "speed": 0.13435812,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.51931167,
+                  "y": 0.2644031
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -4.821164,
+                  "y": -4.821164,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": false,
+      "totalDistance": 360.72028,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:39:17.229755Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 27,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 228.08974,
+      "carryDistance": 341.60898,
+      "clientTime": "2023-04-11T14:39:11.946Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 108.175606,
+      "clubPathAngle": 0,
+      "clubTypeKey": "PitchingWedge",
+      "courseHoleIndex": 7,
+      "createdAt": "2023-04-11T14:39:33.146582Z",
+      "detectedHoleIndex": 7,
+      "endedInHole": false,
+      "finalized": true,
+      "id": "90b43c42-54cb-4b46-8088-876a601d7886",
+      "launchAngle": 24,
+      "launchBackSpin": 7812,
+      "launchBallSpeed": 133.056,
+      "launchDirection": -0.75,
+      "launchSideSpin": 150,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 35,
+      "roundScoreWithHandicap": 38,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 1,
+      "segmentScore": 3,
+      "segmentScoreIndex": 7,
+      "shotIndex": 25,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.08001709,
+              "milliseconds": 0,
+              "pinDistance": 340.25125,
+              "position": {
+                  "x": 318.45297,
+                  "y": 168.1466,
+                  "z": 172.50616
+              },
+              "rollTime": 0,
+              "speed": 133.056,
+              "spin": {
+                  "x": -88.23003,
+                  "y": 95.74708,
+                  "z": 2.5
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.51931167,
+                  "y": 0.2644031
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -1.8873541,
+                  "y": -1.8873541,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 225.88564,
+              "height": 61.52188,
+              "milliseconds": 2466,
+              "pinDistance": 125.81077,
+              "position": {
+                  "x": 160.84561,
+                  "y": 22.65095,
+                  "z": 243.32465
+              },
+              "rollTime": 0,
+              "speed": 64.43765,
+              "spin": {
+                  "x": -79.93769,
+                  "y": 86.748276,
+                  "z": 2.2650378
+              },
+              "terrainType": "kTerrainDeepGrass",
+              "topViewPosition": {
+                  "x": 0.61287177,
+                  "y": 0.16122603
+              },
+              "type": "apex",
+              "windVelocity": {
+                  "x": -8.52801,
+                  "y": -8.52801,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 341.60898,
+              "height": 0.19259644,
+              "milliseconds": 4730,
+              "pinDistance": 3.0681362,
+              "position": {
+                  "x": 66.38046,
+                  "y": -61.978123,
+                  "z": 186.6045
+              },
+              "rollTime": 0,
+              "speed": 64.22174,
+              "spin": {
+                  "x": -32.637913,
+                  "y": 38.369152,
+                  "z": -0.60611856
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.6700079,
+                  "y": 0.10063839
+              },
+              "type": "carry",
+              "windVelocity": {
+                  "x": -9.343986,
+                  "y": -9.343986,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 352.6847,
+              "height": 0.070007324,
+              "milliseconds": 6073,
+              "pinDistance": 12.361625,
+              "position": {
+                  "x": 57.786537,
+                  "y": -68.99085,
+                  "z": 186.8356
+              },
+              "rollTime": 0,
+              "speed": 0.10529858,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.67548794,
+                  "y": 0.095460355
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -8.844567,
+                  "y": -8.844567,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": false,
+      "totalDistance": 352.6847,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:39:33.146582Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 28,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 37.085617,
+      "clientTime": "2023-04-11T14:39:32.243Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 4.768212,
+      "clubPathAngle": 0,
+      "clubTypeKey": "Putter",
+      "courseHoleIndex": 7,
+      "createdAt": "2023-04-11T14:39:51.14884Z",
+      "detectedHoleIndex": 7,
+      "endedInHole": true,
+      "finalized": true,
+      "id": "9c5a4ded-1696-434a-8bdc-66410e9f6cc0",
+      "launchAngle": 0,
+      "launchBackSpin": 0,
+      "launchBallSpeed": 7.2000003,
+      "launchDirection": 0,
+      "launchSideSpin": 0,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 36,
+      "roundScoreWithHandicap": 39,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 1,
+      "segmentScore": 4,
+      "segmentScoreIndex": 7,
+      "shotIndex": 26,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.08000183,
+              "milliseconds": 0,
+              "pinDistance": 12.361625,
+              "position": {
+                  "x": 57.786537,
+                  "y": -68.99085,
+                  "z": 186.8456
+              },
+              "rollTime": 0,
+              "speed": 7.2000003,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.67548794,
+                  "y": 0.095460355
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -8.440341,
+                  "y": -8.440341,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 12.393424,
+              "height": 0,
+              "milliseconds": 4126,
+              "pinDistance": 0,
+              "position": {
+                  "x": 65.24069,
+                  "y": -59.129547,
+                  "z": 185.95836
+              },
+              "rollTime": 0,
+              "speed": 0,
+              "spin": {
+                  "x": -3.089694,
+                  "y": 3.023944,
+                  "z": -3.620108
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.67228776,
+                  "y": 0.10179007
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -10.006294,
+                  "y": -10.006294,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": false,
+      "totalDistance": 12.393424,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:39:51.14884Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 29,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 296.2889,
+      "carryDistance": 767.4558,
+      "clientTime": "2023-04-11T14:39:48.958Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 142.25899,
+      "clubPathAngle": 0,
+      "clubTypeKey": "1Wood",
+      "courseHoleIndex": 8,
+      "createdAt": "2023-04-11T14:40:11.149721Z",
+      "detectedHoleIndex": 8,
+      "endedInHole": false,
+      "finalized": true,
+      "id": "5cce0c0e-18d8-4241-867f-21f5f89d259a",
+      "launchAngle": 12,
+      "launchBackSpin": 2722.5,
+      "launchBallSpeed": 210.5433,
+      "launchDirection": 0.75,
+      "launchSideSpin": -250,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 38,
+      "roundScoreWithHandicap": 41,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 2,
+      "segmentScore": 2,
+      "segmentScoreIndex": 8,
+      "shotIndex": 27,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.08001709,
+              "milliseconds": 0,
+              "pinDistance": 982.501,
+              "position": {
+                  "x": -132.89879,
+                  "y": 103.62117,
+                  "z": 204.69472
+              },
+              "rollTime": 0,
+              "speed": 210.5433,
+              "spin": {
+                  "x": 20.627266,
+                  "y": 40.415424,
+                  "z": -4.1666665
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.48645777,
+                  "y": 0.8625678
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -5.442729,
+                  "y": -5.442729,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 440.01886,
+              "height": 96.93198,
+              "milliseconds": 2849,
+              "pinDistance": 548.11084,
+              "position": {
+                  "x": -517.795,
+                  "y": 305.6928,
+                  "z": 272.80197
+              },
+              "rollTime": 0,
+              "speed": 115.38041,
+              "spin": {
+                  "x": 18.40414,
+                  "y": 36.05961,
+                  "z": -3.7175994
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.48742107,
+                  "y": 0.525454
+              },
+              "type": "apex",
+              "windVelocity": {
+                  "x": -6.8068247,
+                  "y": -6.8068247,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 767.4558,
+              "height": 0.25993347,
+              "milliseconds": 6450,
+              "pinDistance": 217.0374,
+              "position": {
+                  "x": -808.3979,
+                  "y": 465.2685,
+                  "z": 161.09894
+              },
+              "rollTime": 0,
+              "speed": 46.500954,
+              "spin": {
+                  "x": -0.04855688,
+                  "y": -0.09795256,
+                  "z": -0.007634605
+              },
+              "terrainType": "kTerrainDeepGrass",
+              "topViewPosition": {
+                  "x": 0.49777952,
+                  "y": 0.26840818
+              },
+              "type": "carry",
+              "windVelocity": {
+                  "x": -0.8896875,
+                  "y": -0.8896875,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 795.87726,
+              "height": 0.070007324,
+              "milliseconds": 7344,
+              "pinDistance": 189.08446,
+              "position": {
+                  "x": -833.8569,
+                  "y": 477.52945,
+                  "z": 157.03992
+              },
+              "rollTime": 0,
+              "speed": 0.3367859,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainEarth",
+              "topViewPosition": {
+                  "x": 0.4963246,
+                  "y": 0.24650699
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -0.85572135,
+                  "y": -0.85572135,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": true,
+      "totalDistance": 795.87726,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:40:11.149721Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 30,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 293.03268,
+      "carryDistance": 775.0302,
+      "clientTime": "2023-04-11T14:40:14.521Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 144.38568,
+      "clubPathAngle": 0,
+      "clubTypeKey": "1Wood",
+      "courseHoleIndex": 8,
+      "createdAt": "2023-04-11T14:40:39.297193Z",
+      "detectedHoleIndex": 8,
+      "endedInHole": false,
+      "finalized": true,
+      "id": "e14a53e6-0260-4f44-9c7f-92d8f84744f8",
+      "launchAngle": 12,
+      "launchBackSpin": 2763.2,
+      "launchBallSpeed": 213.69081,
+      "launchDirection": 0.75,
+      "launchSideSpin": -250,
+      "mulligan": false,
+      "penaltyShot": "rehit",
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 39,
+      "roundScoreWithHandicap": 42,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 1,
+      "segmentScore": 3,
+      "segmentScoreIndex": 8,
+      "shotIndex": 28,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.08001709,
+              "milliseconds": 0,
+              "pinDistance": 982.501,
+              "position": {
+                  "x": -132.89879,
+                  "y": 103.62117,
+                  "z": 204.69472
+              },
+              "rollTime": 0,
+              "speed": 213.69081,
+              "spin": {
+                  "x": 18.571848,
+                  "y": 42.142563,
+                  "z": -4.1666665
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.48645777,
+                  "y": 0.8625678
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -5.2203746,
+                  "y": -5.2203746,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 456.6912,
+              "height": 102.037186,
+              "milliseconds": 2966,
+              "pinDistance": 534.4534,
+              "position": {
+                  "x": -542.93896,
+                  "y": 291.24036,
+                  "z": 277.0338
+              },
+              "rollTime": 0,
+              "speed": 112.52767,
+              "spin": {
+                  "x": 16.493084,
+                  "y": 37.425488,
+                  "z": -3.7002854
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.44948184,
+                  "y": 0.5133724
+              },
+              "type": "apex",
+              "windVelocity": {
+                  "x": -2.121123,
+                  "y": -2.121123,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 775.0302,
+              "height": 0.25956726,
+              "milliseconds": 6553,
+              "pinDistance": 217.97224,
+              "position": {
+                  "x": -833.2489,
+                  "y": 433.03192,
+                  "z": 163.82683
+              },
+              "rollTime": 0,
+              "speed": 51.17806,
+              "spin": {
+                  "x": -12.337054,
+                  "y": -23.075815,
+                  "z": 1.2298845
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.43561116,
+                  "y": 0.26292115
+              },
+              "type": "carry",
+              "windVelocity": {
+                  "x": -9.631633,
+                  "y": -9.631633,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 821.8439,
+              "height": 0.070007324,
+              "milliseconds": 9525,
+              "pinDistance": 173.09325,
+              "position": {
+                  "x": -874.1098,
+                  "y": 456.02536,
+                  "z": 161.74281
+              },
+              "rollTime": 0,
+              "speed": 0.12950425,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.43783167,
+                  "y": 0.22657877
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -9.995377,
+                  "y": -9.995377,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": true,
+      "totalDistance": 821.8439,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:40:39.297193Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  },
+  {
+      "actionIndex": 31,
+      "actionReason": "shot",
+      "actionType": "shot",
+      "aimHeading": 318.31033,
+      "carryDistance": 164.76422,
+      "clientTime": "2023-04-11T14:40:38.302Z",
+      "clubFaceAngle": 0,
+      "clubHeadSpeed": 70.90909,
+      "clubPathAngle": 0,
+      "clubTypeKey": "SandWedge",
+      "courseHoleIndex": 8,
+      "createdAt": "2023-04-11T14:40:52.77787Z",
+      "detectedHoleIndex": 8,
+      "endedInHole": true,
+      "finalized": true,
+      "id": "d14dd450-379c-464c-af49-60324014408f",
+      "launchAngle": 33,
+      "launchBackSpin": 6630,
+      "launchBallSpeed": 85.8,
+      "launchDirection": 0,
+      "launchSideSpin": 0,
+      "mulligan": false,
+      "roundID": "06ca87d0-473e-4845-94bb-de331939c0aa",
+      "roundScore": 41,
+      "roundScoreWithHandicap": 44,
+      "roundSessionID": "cbd1204d-9d55-474f-a075-68ed52c2fc53",
+      "score": 2,
+      "segmentScore": 5,
+      "segmentScoreIndex": 8,
+      "shotIndex": 29,
+      "snapshots": [
+          {
+              "distance": 0,
+              "height": 0.08000183,
+              "milliseconds": 0,
+              "pinDistance": 173.09325,
+              "position": {
+                  "x": -874.1098,
+                  "y": 456.02536,
+                  "z": 161.7528
+              },
+              "rollTime": 0,
+              "speed": 85.8,
+              "spin": {
+                  "x": 82.51677,
+                  "y": 73.49308,
+                  "z": 0
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.43783167,
+                  "y": 0.22657877
+              },
+              "type": "launch",
+              "windVelocity": {
+                  "x": -2.7793896,
+                  "y": -2.7793896,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 102.9948,
+              "height": 37.129517,
+              "milliseconds": 1666,
+              "pinDistance": 77.33056,
+              "position": {
+                  "x": -938.1328,
+                  "y": 527.2432,
+                  "z": 199.66057
+              },
+              "rollTime": 0,
+              "speed": 47.29931,
+              "spin": {
+                  "x": 77.1933,
+                  "y": 68.75174,
+                  "z": 0
+              },
+              "terrainType": "kTerrainFairway",
+              "topViewPosition": {
+                  "x": 0.48967114,
+                  "y": 0.15698498
+              },
+              "type": "apex",
+              "windVelocity": {
+                  "x": -1.699256,
+                  "y": -1.699256,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 164.76422,
+              "height": 0.16383362,
+              "milliseconds": 3303,
+              "pinDistance": 8.514709,
+              "position": {
+                  "x": -984.6563,
+                  "y": 578.10425,
+                  "z": 166.59665
+              },
+              "rollTime": 0,
+              "speed": 20.95557,
+              "spin": {
+                  "x": 37.280846,
+                  "y": 33.333862,
+                  "z": -0.821202
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.5261173,
+                  "y": 0.10673356
+              },
+              "type": "carry",
+              "windVelocity": {
+                  "x": -2.496456,
+                  "y": -2.496456,
+                  "z": 0
+              }
+          },
+          {
+              "distance": 171.20383,
+              "height": 0.070007324,
+              "milliseconds": 4326,
+              "pinDistance": 2.3372326,
+              "position": {
+                  "x": -988.87213,
+                  "y": 582.975,
+                  "z": 166.66737
+              },
+              "rollTime": 0,
+              "speed": 0.1312018,
+              "spin": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+              },
+              "terrainType": "kTerrainGreen",
+              "topViewPosition": {
+                  "x": 0.5297798,
+                  "y": 0.10208583
+              },
+              "type": "total",
+              "windVelocity": {
+                  "x": -2.8937397,
+                  "y": -2.8937397,
+                  "z": 0
+              }
+          }
+      ],
+      "startedOnTee": false,
+      "totalDistance": 171.20383,
+      "trackingSystemClubTypeKey": "",
+      "trackingSystemKey": "swing_gauge",
+      "updatedAt": "2023-04-11T14:40:52.77787Z",
+      "userID": "3eaef7a7-7592-45b4-9896-30175a5f9424"
+  }
+]

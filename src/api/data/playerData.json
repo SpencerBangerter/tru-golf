@@ -1,0 +1,17 @@
+{
+  "user_uuid": "3eaef7a7-7592-45b4-9896-30175a5f9424",
+  "round_uuid": "8ae1452a-c838-4842-bd94-993b8fc346b4",
+  "handicap": "9",
+  "gender": "male",
+  "gameMode": "stroke_play",
+  "players": [
+    {
+      "eligible": true,
+      "handicap": 9,
+      "id": "3eaef7a7-7592-45b4-9896-30175a5f9424",
+      "qualifiedForHandicap": true,
+      "teeLevel": "Blue",
+      "name": "E6 User"
+    }
+  ]
+}
