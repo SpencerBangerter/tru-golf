@@ -1,4 +1,6 @@
 import React, { useEffect, useState } from "react";
+import { useSelector } from "react-redux";
+import { setShotData } from "../app/slice/shotDataSlice";
 import { getShots } from "../api/shots";
 import {
   TableBody,
@@ -15,15 +17,16 @@ import styled from "styled-components";
 import ShotModalContents from "./ShotModalContents";
 
 function ShotTable() {
-  const [shots, setShots] = useState([]);
   const [showShotModal, setShowShotModal] = useState(false);
   const [selectedShot, setSelectedShot] = useState();
-  //This fires on page load, getting all the users shots and setting them to state
-  //If I have time i'll set up this being stored in Redux, but initially its just going to be stored in normal state.
+  //select shots from redux
+  const shots = useSelector((state) => state.shotData.filteredShots);
+
+  //This fires on page load, getting all the users shots and setting them to Redux, which is then used to populate the table.
   useEffect(() => {
     async function fetchShots() {
       const userShots = await getShots();
-      setShots(userShots);
+      setShotData(userShots);
     }
     fetchShots();
   }, []);
@@ -34,10 +37,9 @@ function ShotTable() {
   };
   return (
     <>
-    {
-      //I'd like to add pagination here if I have enough time. Id also like to add a styling for every other row to get a slightly different background color
-      
-    }
+      {
+        //I'd like to add pagination here if I have enough time. Id also like to add a styling for every other row to get a slightly different background color
+      }
       <TableContainer component={Paper} sx={{ width: "85%", margin: "auto" }}>
         <Table sx={{ minWidth: 650 }} aria-label="simple table">
           <StyledHeader>
@@ -125,7 +127,7 @@ function ShotTable() {
           aria-describedby="modal-modal-description"
         >
           <StyledBox>
-            <ShotModalContents selectedShot={shots[selectedShot]}/>
+            <ShotModalContents selectedShot={shots[selectedShot]} />
           </StyledBox>
         </Modal>
       )}

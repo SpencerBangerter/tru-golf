@@ -1,34 +1,35 @@
-import React, { useEffect, useState } from "react";
+import { React, useEffect, useState } from "react";
+import { useSelector, useDispatch } from "react-redux";
+
 import InputLabel from "@mui/material/InputLabel";
 import MenuItem from "@mui/material/MenuItem";
 import FormHelperText from "@mui/material/FormHelperText";
 import FormControl from "@mui/material/FormControl";
 import Select from "@mui/material/Select";
 import { getUniqueClubs } from "./Filtering";
-import { getShots } from "../../api/shots";
-
+import { filterShots, clearFilteredShots } from "../../app/slice/shotDataSlice";
 function SelectClub() {
-  const [selectedClub, setSelectedClub] = React.useState([]);
-  const [shots, setShots] = useState([]);
+  const dispatch = useDispatch();
+  const [selectedClub, setSelectedClub] = useState([]);
+  const shots = useSelector((state) => state.shotData.shotData);
+
   // todo: sort clubs by standard distances, remove unused clubs from options.
   let clubFilterOptions = getUniqueClubs(shots).sort((a, b) =>
     ("" + a).localeCompare(b, undefined, { numeric: true })
   );
 
   const handleChange = (event) => {
-    if(event.target.value.includes("Clear")){
+    if (event.target.value.includes("Clear")) {
       setSelectedClub([]);
+      dispatch(clearFilteredShots());
       return;
     }
     setSelectedClub(event.target.value);
   };
+
   useEffect(() => {
-    async function fetchShots() {
-      const userShots = await getShots();
-      setShots(userShots);
-    }
-    fetchShots();
-  }, []);
+    dispatch(filterShots(selectedClub));
+  }, [selectedClub, dispatch]);
 
   return (
     <div>
@@ -47,11 +48,7 @@ function SelectClub() {
               {club.replace(/([A-Z])/g, " $1").trim()}
             </MenuItem>
           ))}
-          <MenuItem
-            key={"clear"}
-            value={"Clear"}
-            onClick={() => setSelectedClub([])}
-          >
+          <MenuItem key={"clear"} value={"Clear"} onChange={handleChange}>
             Clear
           </MenuItem>
         </Select>
