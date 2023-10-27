@@ -2,11 +2,11 @@
 First off, thank you for the time to speak with me. I enjoyed my conversation with you (assuming Clint is the one reading this, if not, well I look forward to talking to you at some point too)
 I want to walk you through some of my high level decisions, and i left some code comments in some places in the code while creating this. 
 
-I decided to start a whole applicaton from scratch using the following technology:
-React for the front end framework
-Redux for state management
-Styled Components for quick styling of components and to eliminate the need for strict class names and css files
-MUI for a base component library
+I decided to start a whole applicaton from scratch using the following technology: \
+React for the front end framework \
+Redux for state management \
+Styled Components for quick styling of components and to eliminate the need for strict class names and css files \
+MUI for a base component library 
 
 I decided to do things this way, as it would allow for a better end product in 2 days due to my experience with them as frameworks. 
 
