@@ -10,7 +10,7 @@ const roundDataSlice = createSlice({
   initialState,
   reducers: {
     setRoundData: (state, action) => {
-      state.nextStepsState = action.payload;
+      state.roundData = action.payload;
     },
   },
 });

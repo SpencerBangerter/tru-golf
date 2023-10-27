@@ -1,3 +1,2 @@
-import Info from './icons/Info.js'
-export {
-Info};
+import Info from "./icons/Info.js";
+export { Info };

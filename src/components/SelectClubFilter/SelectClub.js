@@ -13,11 +13,12 @@ function SelectClub() {
   const [selectedClub, setSelectedClub] = useState([]);
   const shots = useSelector((state) => state.shotData.shotData);
 
-  // todo: sort clubs by standard distances, remove unused clubs from options.
+  // Something I'd like to do in the future if given more time sort clubs by standard distances rather than alphabetically
   let clubFilterOptions = getUniqueClubs(shots).sort((a, b) =>
     ("" + a).localeCompare(b, undefined, { numeric: true })
   );
 
+  //handles change of filter options
   const handleChange = (event) => {
     if (event.target.value.includes("Clear")) {
       setSelectedClub([]);
@@ -27,6 +28,7 @@ function SelectClub() {
     setSelectedClub(event.target.value);
   };
 
+  //filters shots based on selected club, fires any time the selected club array changes
   useEffect(() => {
     dispatch(filterShots(selectedClub));
   }, [selectedClub, dispatch]);
@@ -52,7 +54,7 @@ function SelectClub() {
             Clear
           </MenuItem>
         </Select>
-        <FormHelperText>Select Clubs To View</FormHelperText>
+        <FormHelperText>Select Clubs To Filter</FormHelperText>
       </FormControl>
     </div>
   );
