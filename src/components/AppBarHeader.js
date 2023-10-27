@@ -2,6 +2,7 @@ import { Typography } from "@mui/material";
 import React from "react";
 import styled from "styled-components";
 import { useSelector } from "react-redux";
+import { Dot } from "../assets/svgIcons";
 function AppBarHeader() {
   const round = useSelector((state) => state.roundData.roundData);
   const player = useSelector((state) => state.playerData.playerData);
@@ -10,7 +11,9 @@ function AppBarHeader() {
     <HeaderContainer>
       <CourseName variant="h4">{round.courseName}</CourseName>
       <UserContainer>
-        <UserName variant="h4">{player.players[0].name}</UserName>
+        <Typography variant="h4">{player.players[0].name} -</Typography>
+        <Dot fill={player.players[0].teeLevel.toLowerCase()} />
+        <TeeColor variant="h4">Tees</TeeColor>
       </UserContainer>
     </HeaderContainer>
   );
@@ -31,11 +34,12 @@ const CourseName = styled(Typography)`
   padding-left: 20px;
 `;
 
-const UserName = styled(Typography)`
+const TeeColor = styled(Typography)`
   padding-right: 20px;
 `;
 
 const UserContainer = styled.div`
+  align-items: center;
   display: flex;
   gap: 20px;
 `;

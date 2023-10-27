@@ -1,2 +1,3 @@
 import Info from "./icons/Info.js";
-export { Info };
+import Dot from "./icons/Dot.js";
+export { Dot, Info };
